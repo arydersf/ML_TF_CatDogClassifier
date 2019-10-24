@@ -1,2 +1,10 @@
 # ML_TF_CatDogClassifier
-A basic convolution neural network for classifying cats and dogs data. 
+
+This is an application of a convolutional neural newtork to classify images of cats and dogs.  
+
+
+## Data:
+The data for this project is the Kaggle Cats and Dogs dataset that can be found [here](https://www.microsoft.com/en-us/download/details.aspx?id=54765).  
+
+
+
