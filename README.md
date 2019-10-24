@@ -7,12 +7,6 @@ I built this neural network with Keras on Tensorflow 2.0.
 ## Data:
 The data for this project is the Kaggle Cats and Dogs dataset that can be found [here](https://www.microsoft.com/en-us/download/details.aspx?id=54765).  
 
-## Overview: 
-Here I will give an overview of what is in my project.  
-
-### 1) The Data:
-After downloading the data, I examined and played around with it: 
-
 
 
 
